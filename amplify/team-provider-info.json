@@ -1,0 +1,46 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyapp-dev-10718-authRole",
+      "UnauthRoleArn": "arn:aws:iam::672326917775:role/amplify-amplifyapp-dev-10718-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::672326917775:role/amplify-amplifyapp-dev-10718-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyapp-dev-10718-deployment",
+      "UnauthRoleName": "amplify-amplifyapp-dev-10718-unauthRole",
+      "StackName": "amplify-amplifyapp-dev-10718",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:672326917775:stack/amplify-amplifyapp-dev-10718/cb484c90-8ec4-11ec-8404-0614d3a837df",
+      "AmplifyAppId": "d2pnfgomzu5dc3"
+    }
+  },
+  "master": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyapp-master-11345-authRole",
+      "UnauthRoleArn": "arn:aws:iam::672326917775:role/amplify-amplifyapp-master-11345-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::672326917775:role/amplify-amplifyapp-master-11345-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyapp-master-11345-deployment",
+      "UnauthRoleName": "amplify-amplifyapp-master-11345-unauthRole",
+      "StackName": "amplify-amplifyapp-master-11345",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:672326917775:stack/amplify-amplifyapp-master-11345/b0f72090-8ec5-11ec-8377-0a6709243975",
+      "AmplifyAppId": "d2pnfgomzu5dc3"
+    }
+  },
+  "iwata": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyapp-iwata-12508-authRole",
+      "UnauthRoleArn": "arn:aws:iam::672326917775:role/amplify-amplifyapp-iwata-12508-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::672326917775:role/amplify-amplifyapp-iwata-12508-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyapp-iwata-12508-deployment",
+      "UnauthRoleName": "amplify-amplifyapp-iwata-12508-unauthRole",
+      "StackName": "amplify-amplifyapp-iwata-12508",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:672326917775:stack/amplify-amplifyapp-iwata-12508/4752af40-8ec7-11ec-8be4-065755a2b573",
+      "AmplifyAppId": "d205qlgq159tun"
+    },
+    "categories": {
+      "auth": {
+        "amplifyapp81006a9e": {}
+      }
+    }
+  }
+}
